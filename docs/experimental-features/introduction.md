@@ -1,7 +1,10 @@
 # Experimental Features
 
-> ⚠️ **Experimental features are not guaranteed to be stable**  
-> These features are made available for testing, evaluation, and feedback purposes.
+:::caution
+**Experimental features are not guaranteed to be stable**
+
+These features are made available for testing, evaluation, and feedback purposes.
+:::
 
 ## What Are Experimental Features?
 
