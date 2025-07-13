@@ -3,8 +3,11 @@ import syncDemonstration from '@site/static/videos/sync-demonstration.mp4';
 
 # Synchronizing Lichtblick Instances
 
-> ⚠️ **This feature is experimental**  
-> Synchronization between Lichtblick instances is an early feature under active development. Instabilities or limitations may occur.
+:::caution
+**This feature is experimental** 
+
+Synchronization between Lichtblick instances is an early feature under active development. Instabilities or limitations may occur.
+:::
 
 ## Overview
 
